@@ -1,0 +1,46 @@
+{
+  "themedir": "/_resources/vendor/fromholdio/silverstripe-handsontablefield/client",
+
+  "styles": {
+    "src": "src/scss",
+    "filter": "/**/*.+(scss)",
+    "dist": "dist/css",
+    "distfilter": "/**/*.+(css|map)"
+  },
+
+  "scripts": {
+    "src": "src/js",
+    "filter": "/*.+(js)",
+    "dist": "dist/js",
+    "distfilter": "/**/*.+(js|map)"
+  },
+
+  "images": {
+    "src": "src/images",
+    "filter": "/**/*.+(png|jpg|gif|jpeg|ico|webp|avif)",
+    "dist": "dist/images"
+  },
+
+  "svgs": {
+    "src": "src/images",
+    "filter": "/**/*.+(svg)",
+    "dist": "dist/images"
+  },
+
+  "icons": {
+    "src": "src/icons",
+    "filter": "/**/*.+(svg)",
+    "dist": "dist/icons"
+  },
+
+  "fonts": {
+    "src": "src/fonts",
+    "filter": "/**/*.+(woff2|woff)",
+    "dist": "dist/fonts"
+  },
+
+  "documents": {
+    "filter": "/**/*.*",
+    "dist": "dist/documents"
+  }
+}

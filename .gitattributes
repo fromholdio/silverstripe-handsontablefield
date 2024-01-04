@@ -1,0 +1,6 @@
+client/src export-ignore
+client/gulp-paths.json export-ignore
+client/gulp-script-builds.json export-ignore
+client/gulpfile.js export-ignore
+client/package.json export-ignore
+client/package-lock.json export-ignore

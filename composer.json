@@ -1,0 +1,30 @@
+{
+  "name": "fromholdio/silverstripe-handsontablefield",
+  "type": "silverstripe-vendormodule",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "keywords": ["silverstripe"],
+  "homepage": "https://github.com/fromholdio/silverstripe-handsontablefield",
+  "support": {
+    "issues": "https://github.com/fromholdio/silverstripe-handsontablefield/issues"
+  },
+  "authors": [{
+    "name": "Luke Fromhold",
+    "homepage": "https://fromhold.io"
+  }],
+  "require": {
+    "silverstripe/framework": "~5.0"
+  },
+  "extra": {
+    "expose": [
+      "client/dist"
+    ]
+  },
+  "autoload": {
+    "psr-4": {
+      "Fromholdio\\HandsOnTableField\\": "src/"
+    }
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

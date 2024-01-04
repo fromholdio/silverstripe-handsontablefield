@@ -1,0 +1,6 @@
+{
+  "handsontablefield.js": [
+    "node_modules/handsontable/dist/handsontable.full.js",
+    "src/js/init-handsontable.js"
+  ]
+}
